@@ -1,0 +1,2 @@
+company_name,cin,address,meeting_date,meeting_time,meeting_address,attender_name,attender_client_id,attender_shares,attender_proxy
+example,CIN,india,"Wednesday 10th July, 2024",11:00 A.M,delhi,Attender Name,10,9000,NA

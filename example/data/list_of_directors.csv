@@ -1,0 +1,2 @@
+company_name,cin,address,date_on,director_name_1,director_din_1,director_father_name_1,director_address_1,director_name_2,director_din_2,director_father_name_2,director_address_2,date,place
+example,CIN,india,31.03.2024,Director 1,DIN 1,Director Father Name 1,Director Address 1,Director 2,DIN 2,Director Father Name 2,Director Address 2,19th June 2024,"xyz, india"

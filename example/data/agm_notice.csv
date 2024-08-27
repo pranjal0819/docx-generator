@@ -1,0 +1,2 @@
+company_name,cin,address,meeting_number,meeting_date,meeting_time,meeting_address,audit_last_date,financial_year,director_name_1,director_din_1,director_name_2,director_din_2,date,place
+example,CIN,india,2nd,"Wednesday 10th July, 2024",11:00 A.M,delhi,"31st March, 2024",2023-24,Director 1,DIN 1,Director 2,DIN 2,19th June 2024,"xyz, india"

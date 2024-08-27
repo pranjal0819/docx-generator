@@ -31,7 +31,7 @@ source venv/bin/activate
 ```shell
 python -m pip install --upgrade pip
 
-pip install --upgrade docxtpl pandas
+pip install --upgrade colorama docxtpl pandas
 
 pip install --upgrade pre-commit
 pre-commit install

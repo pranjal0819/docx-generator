@@ -2,7 +2,7 @@ babel==2.16.0
 colorama==0.4.6
 docxcompose==1.4.0
 docxtpl==0.18.0
-Jinja2==3.1.4
+Jinja2==3.1.6
 lxml==5.3.0
 MarkupSafe==2.1.5
 numpy==2.0.1
